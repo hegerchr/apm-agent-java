@@ -1,6 +1,6 @@
 # Contributing to the Elastic APM Java agent
 
-The Elastic APM Java Agent is only accepting bug fixes for existing features. Elastic has invested heavily in OpenTelemetry and is working hard to build the future of vendor-neutral application SDK instrumentation. If the Elastic APM Agent supports a feature that you believe is not yet available in the OpenTelemetry Java SDKs, please open an issue in the <a href="https://github.com/elastic/elastic-otel-java">EDOT Java SDK repository</a> describing the feature, your goals for wanting it, and any other information that is helpful.
+The Elastic APM Java Agent is only accepting bug fixes for existing features. Elastic has invested heavily in OpenTelemetry and is working hard to build the future of vendor-neutral application SDK instrumentation. If the Elastic APM Java Agent supports a feature that you believe is not yet available in the OpenTelemetry Java SDK, please open an issue in the <a href="https://github.com/elastic/elastic-otel-java">EDOT Java SDK repository</a> describing the feature, your goals for wanting it, and any other information that is helpful.
 
 ## Code contributions
 
