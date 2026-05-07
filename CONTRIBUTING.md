@@ -1,31 +1,19 @@
 # Contributing to the Elastic APM Java agent
 
-The APM Agent is open source and we love to receive contributions from our community — you!
-
-There are many ways to contribute,
-from writing tutorials or blog posts,
-improving the documentation,
-submitting bug reports and feature requests or writing code.
-
-If you want to be rewarded for your contributions, sign up for the [Elastic Contributor Program](https://www.elastic.co/community/contributor). Each time you make a valid contribution, you’ll earn points that increase your chances of winning prizes and being recognized as a top contributor.
-
-You can get in touch with us through [Discuss](https://discuss.elastic.co/c/apm),
-feedback and ideas are always welcome.
+The Elastic APM Java Agent is only accepting bug fixes for existing features. Elastic has invested heavily in OpenTelemetry and is working hard to build the future of vendor-neutral application SDK instrumentation. If the Elastic APM Java Agent supports a feature that you believe is not yet available in the OpenTelemetry Java SDK, please open an issue in the <a href="https://github.com/elastic/elastic-otel-java">EDOT Java SDK repository</a> describing the feature, your goals for wanting it, and any other information that is helpful.
 
 ## Code contributions
 
-If you have a bugfix or new feature that you would like to contribute, please do the following:
+If you have a bugfix that you would like to contribute, please do the following:
 - Double check in open issues if there are any related issues or PRs
 - Open an issue, ensure that you have properly described the use-case and possible solutions, link related issues/PRs if any
 - Open a PR and link the issue created in previous step with your code changes.
 
 Doing so allows to:
-- Share knowledge and document a bug/missing feature
+- Share knowledge and document a bug
 - Get feedback if someone is already working on it or is having a similar issue
 - Benefit from the team experience by discussing it first, there are lots of implementation details that might not be
 obvious at first sight.
-
-Once you are all set to go, [this "cookbook recipe" blog post](https://www.elastic.co/blog/a-cookbook-for-contributing-a-plugin-to-the-elastic-apm-java-agent) can guide you through.
 
 ### Testing
 
