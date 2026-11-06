@@ -4,8 +4,6 @@
 
 # apm-agent-java
 
-Please fill out this survey to help us prioritizing framework support: https://docs.google.com/forms/d/e/1FAIpQLScd0RYiwZGrEuxykYkv9z8Hl3exx_LKCtjsqEo1OWx8BkLrOQ/viewform?usp=sf_link
-
 ## Release announcements
 
 To get notified about new releases, watch this repository for `Releases only`.
